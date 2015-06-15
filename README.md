@@ -1,2 +1,3 @@
-# hello-world
-A simple repo (GitHub Guides project).
+# Hello World
+
+This is a simple repo (GitHub Guides project) made for testing things.
